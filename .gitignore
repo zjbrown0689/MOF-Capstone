@@ -80,6 +80,7 @@ target/
 *.zip
 *.cif
 *.json
+*.png
 acs.chemmater.2c02485.pdf
 
 # IPython
